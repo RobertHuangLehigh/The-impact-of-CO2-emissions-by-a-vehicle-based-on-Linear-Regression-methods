@@ -24,3 +24,20 @@ Methods:
 
 5.Building linear regression models
 
+Conclusinn:
+
+1.The observed data fit well with the regression model with a high R-squared value.
+
+2.Engines Size is the most influencing feature that affects CO2 emission.
+
+3.For Polynomial Regression, the more degrees we used, the higher R-squared we can get.
+
+4.We can get a higher R-squared score for more features according to Grid-Search.
+
+5.For the influence feature that affects CO2 emission of fuel type, diesel has the biggest impact on CO2 emissions. But demand for diesel remains high for medium and long-haul vehicles, especially long-haul trucks.
+
+6.Although ethanol fuel has a negative coefficient on carbon emissions, it does not mean that the use of ethanol fuel is encouraged, because its energy conversion efficiency is low, and it will consume more energy and pollute the production process.
+
+7.Dataset reference: https://www.kaggle.com/datasets/debajyotipodder/co2-emission-by-vehicles.
+
+
