@@ -24,7 +24,7 @@ Methods:
 
 5.Building linear regression models
 
-Conclusinn:
+Conclusion:
 
 1.The observed data fit well with the regression model with a high R-squared value.
 
