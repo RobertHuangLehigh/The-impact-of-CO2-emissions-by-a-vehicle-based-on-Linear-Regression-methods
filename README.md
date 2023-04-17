@@ -9,3 +9,16 @@ Problems need to solve:
 1.Determine or test the influence of different variables on the emission of CO2.
 
 2.What are the most influencing features that affect CO2 emission?
+
+Methods:
+
+1.Data understanding and cleaning
+
+2.Determine the significance of each coefficient
+
+3.Correlation Analysis(2 variables)
+
+4.Analyze the correlation between all variables
+
+5.Building linear regression models
+
