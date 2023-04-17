@@ -1,8 +1,10 @@
 # Abstract
+
 Background:  
 
-1. Vehicles are now America's biggest CO2 source.
-2. According to the Energy Information Administration, in 2016, about 1.9bn tons of carbon dioxide emissions were emitted from transportation.
+1.Vehicles are now America's biggest CO2 source.
+
+2.According to the Energy Information Administration, in 2016, about 1.9bn tons of carbon dioxide emissions were emitted from transportation.
 
 Problems need to solve:
 
